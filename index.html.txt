@@ -1,0 +1,118 @@
+
+1
+<!DOCTYPE html>
+2
+<html lang="en" dir="ltr">
+3
+<head>
+4
+    <meta charset="UTF-8">
+5
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+6
+    <title>Hyper Panda</title>
+7
+    <style>
+8
+        body {
+9
+            font-family: 'Arial', sans-serif;
+10
+            background-color: #f4f4f4;
+11
+            text-align: center;
+12
+            padding: 20px;
+13
+            color: #333;
+14
+            display: flex;
+15
+            justify-content: center;
+16
+            align-items: center;
+17
+            height: 100vh;
+18
+        }
+19
+        .container {
+20
+            background-color: #fff;
+21
+            padding: 30px;
+22
+            border-radius: 10px;
+23
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+24
+            max-width: 500px;
+25
+            width: 100%;
+26
+            margin: auto;
+27
+            border: 3px solid #d32f2f;
+28
+            text-align: center;
+29
+        }
+30
+        h1 {
+31
+            color: #d32f2f;
+32
+            margin-bottom: 20px;
+33
+            font-size: 48px;
+34
+        }
+35
+        p {
+36
+            font-size: 18px;
+37
+            color: #388e3c;
+38
+            margin-top: 20px;
+39
+        }
+40
+        .btn {
+41
+            display: inline-block;
+42
+            background-color: #d32f2f;
+43
+            color: white;
+44
+            padding: 15px 30px;
+45
+            margin-top: 20px;
+46
+            text-decoration: none;
+47
+            font-size: 18px;
+48
+            border-radius: 5px;
+49
+            transition: background-color 0.3s ease;
+50
+        }
+51
+        .btn:hover {
+52
+            background-color: #b71c1c;
+53
+        }
+54
+        .logo {
+55
+            width: 150px;
+56
+            margin: 0 auto 20px;
+57
+            display: block;
+58
+        }
+النموذج: تعديل النموذج
